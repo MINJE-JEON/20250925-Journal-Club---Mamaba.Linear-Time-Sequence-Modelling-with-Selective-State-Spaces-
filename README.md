@@ -5,6 +5,8 @@
 <!-- TODO add the paper to something and link. -->
 
 20250925-Journal Club - [Mamaba : Linear-Time Sequence Modelling with Selective State Spaces] PDF Here : [[PDF]](misc/250925_저널클럽_Mamba-SSM.pdf).
+<br>
+<br>
 Source here! : https://github.com/state-spaces/mamba and PDF 41 Page!
 ```
 @article{mamba,
@@ -22,6 +24,3 @@ Source here! : https://github.com/state-spaces/mamba and PDF 41 Page!
 }
 
 ```
-
-
-<br>
