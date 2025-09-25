@@ -7,7 +7,7 @@
 20250925-Journal Club - [Mamba : Linear-Time Sequence Modeling with Selective State Spaces] PDF Here : [[PDF]](misc/250925_저널클럽_Mamba-SSM.pdf).
 <br>
 <br>
-Source here! : https://github.com/state-spaces/mamba and PDF 41 Page!
+Source here! : https://github.com/state-spaces/mamba and PDF 40 Page!
 ```
 @article{mamba,
   title={Mamba: Linear-Time Sequence Modeling with Selective State Spaces},
