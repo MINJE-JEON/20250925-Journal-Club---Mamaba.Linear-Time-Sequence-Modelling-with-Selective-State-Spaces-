@@ -6,7 +6,7 @@
 
 20250925-Journal Club - [Mamaba : Linear-Time Sequence Modelling with Selective State Spaces] PDF Here : [[PDF]](misc/250925_저널클럽_Mamba-SSM.pdf).
 Source here! : https://github.com/state-spaces/mamba and PDF 41 Page!
-
+```
 @article{mamba,
   title={Mamba: Linear-Time Sequence Modeling with Selective State Spaces},
   author={Gu, Albert and Dao, Tri},
@@ -20,5 +20,8 @@ Source here! : https://github.com/state-spaces/mamba and PDF 41 Page!
   booktitle={International Conference on Machine Learning (ICML)},
   year={2024}
 }
+
+```
+
 
 <br>
