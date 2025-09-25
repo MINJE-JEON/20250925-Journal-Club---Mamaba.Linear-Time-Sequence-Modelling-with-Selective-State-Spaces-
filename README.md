@@ -4,6 +4,6 @@
 &nbsp;
 <!-- TODO add the paper to something and link. -->
 
-PDF Here : Additional details about the CMU-GPR dataset can be found here: [[PDF]](misc/250925_저널클럽_Mamba-SSM.pdf).
+20250925-Journal Club - [Mamaba : Linear-Time Sequence Modelling with Selective State Spaces] PDF Here : [[PDF]](misc/250925_저널클럽_Mamba-SSM.pdf).
 
 <br>
