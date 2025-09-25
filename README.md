@@ -2,5 +2,5 @@
 20250925-Journal Club - [Mamaba : Linear-Time Sequence Modelling with Selective State Spaces]
 <center><img src="misc/250925_저널클럽_Mamba-SSM.png" width="750" style="center"></center>
 &nbsp;
-[[PPT]](misc/baikovitz2021dataset.pdf).
+[[PPT]](misc/250925_저널클럽_Mamba-SSM.pdf).
 <br>
